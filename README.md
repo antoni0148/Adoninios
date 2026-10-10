@@ -10,7 +10,7 @@
 
 ```bash $ cd Adoninios```
 
-```bash $ pip3 install -r requisitos.txt```
+```bash $ pip3 install -r requirements.txt```
 
 ## Ejecución
 
